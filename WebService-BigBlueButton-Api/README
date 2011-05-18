@@ -1,0 +1,56 @@
+WebService-BigBlueButton-API
+
+Allows you to easily interact with BigBlueButton's API.
+
+BigBlueButton is an opensource web conferencing system with integrated voice, 
+text chat, video, presentation, and desktop sharing. More information is 
+available at: http://bigbluebutton.org
+
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+	perl Makefile.PL
+	make
+	make test
+	make install
+
+SUPPORT AND DOCUMENTATION
+
+After installing, you can find documentation for this module with the
+perldoc command.
+
+    perldoc WebService::BigBlueButton::API
+
+You can also look for information at:
+
+	GitHub
+    	https://github.com/bvierra/bbb-admin
+    	
+    Big Blue Button
+    	http://bigbluebutton.org/
+
+    RT, CPAN's request tracker
+        http://rt.cpan.org/NoAuth/Bugs.html?Dist=WebService-BigBlueButton-API
+
+    AnnoCPAN, Annotated CPAN documentation
+        http://annocpan.org/dist/WebService-BigBlueButton-API
+
+    CPAN Ratings
+        http://cpanratings.perl.org/d/WebService-BigBlueButton-API
+
+    Search CPAN
+        http://search.cpan.org/dist/WebService-BigBlueButton-API/
+
+
+LICENSE AND COPYRIGHT
+
+Copyright (C) 2011 "Billy Vierra"
+
+This program is free software; you can redistribute it and/or modify it
+under the terms of either: the GNU General Public License as published
+by the Free Software Foundation; or the Artistic License.
+
+See http://dev.perl.org/licenses/ for more information.
+
